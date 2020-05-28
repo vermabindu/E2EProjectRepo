@@ -1,0 +1,7 @@
+18:50:20.640 [TestNG] INFO  Academy.E2EProject.base - this is printed in log4j test. resticted Usres!
+18:50:21.620 [TestNG] INFO  Academy.E2EProject.base - login button got clicked!
+19:04:26.059 [TestNG] INFO  Academy.E2EProject.base - Driver is initialized
+19:04:30.413 [TestNG] INFO  Academy.E2EProject.base - navigate to home page!
+19:04:31.010 [TestNG] INFO  Academy.E2EProject.base - Enter in website!!
+19:04:31.150 [TestNG] INFO  Academy.E2EProject.base - NviagationBar displyed!
+19:04:43.627 [TestNG] INFO  Academy.E2EProject.base - Enter in website!!

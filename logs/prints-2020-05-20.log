@@ -1,0 +1,7 @@
+18:55:56.577 [TestNG] INFO  Academy.E2EProject.base - login button got clicked!
+18:59:42.017 [main] INFO  Academy.E2EProject.base - Enter in website!!
+18:59:44.533 [main] INFO  Academy.E2EProject.base - Username enterd!!
+18:59:44.634 [main] INFO  Academy.E2EProject.base - Password enterd!!
+18:59:44.635 [main] INFO  Academy.E2EProject.base - this is printed in log4j test. Nonrestricted Usres!
+18:59:45.985 [main] INFO  Academy.E2EProject.base - login button got clicked!
+18:59:49.471 [main] INFO  Academy.E2EProject.base - Enter in website!!

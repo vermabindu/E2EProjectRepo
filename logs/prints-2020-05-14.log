@@ -1,0 +1,8 @@
+21:36:57.204 [main] INFO  resources.base - Username enterd!!
+21:36:57.339 [main] INFO  resources.base - Password enterd!!
+21:36:57.339 [main] INFO  resources.base - this is printed in log4j test. Nonrestricted Usres!
+21:36:58.951 [main] INFO  resources.base - login button got clicked!
+21:37:00.535 [main] INFO  resources.base - Enter in website!!
+21:37:02.569 [main] INFO  resources.base - Username enterd!!
+21:37:02.676 [main] INFO  resources.base - Password enterd!!
+21:37:02.676 [main] INFO  resources.base - this is printed in log4j test. resticted Usres!

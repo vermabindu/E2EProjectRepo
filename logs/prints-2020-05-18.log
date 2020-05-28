@@ -1,0 +1,7 @@
+23:28:16.679 [TestNG] INFO  Academy.E2EProject.base - navigate to home page!
+23:28:18.014 [TestNG] INFO  Academy.E2EProject.base - Enter in website!!
+23:28:18.728 [TestNG] INFO  Academy.E2EProject.base - NviagationBar displyed!
+23:28:21.854 [TestNG] INFO  Academy.E2EProject.base - Username enterd!!
+23:28:21.951 [TestNG] INFO  Academy.E2EProject.base - Password enterd!!
+23:28:21.951 [TestNG] INFO  Academy.E2EProject.base - this is printed in log4j test. Nonrestricted Usres!
+23:28:23.182 [TestNG] INFO  Academy.E2EProject.base - login button got clicked!

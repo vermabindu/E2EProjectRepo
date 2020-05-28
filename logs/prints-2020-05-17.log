@@ -1,0 +1,7 @@
+14:42:03.027 [TestNG] INFO  Academy.E2EProject.base - NviagationBar displyed!
+14:42:06.217 [TestNG] INFO  Academy.E2EProject.base - Username enterd!!
+14:42:06.337 [TestNG] INFO  Academy.E2EProject.base - Password enterd!!
+14:42:06.337 [TestNG] INFO  Academy.E2EProject.base - this is printed in log4j test. Nonrestricted Usres!
+14:42:07.510 [TestNG] INFO  Academy.E2EProject.base - login button got clicked!
+14:42:08.892 [TestNG] INFO  Academy.E2EProject.base - Enter in website!!
+14:42:11.265 [TestNG] INFO  Academy.E2EProject.base - Username enterd!!

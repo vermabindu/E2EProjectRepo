@@ -1,0 +1,8 @@
+21:24:27.007 [TestNG] INFO  resources.base - Driveris initialized
+21:24:31.291 [TestNG] INFO  resources.base - Enter in website!!
+21:24:32.462 [TestNG] INFO  resources.base - navigate to home page!
+21:24:32.468 [TestNG] INFO  resources.base - NviagationBar displyed!
+21:24:35.548 [TestNG] INFO  resources.base - Username enterd!!
+21:24:35.653 [TestNG] INFO  resources.base - Password enterd!!
+21:24:35.653 [TestNG] INFO  resources.base - this is printed in log4j test. Nonrestricted Usres!
+21:24:37.325 [TestNG] INFO  resources.base - login button got clicked!
